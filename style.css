@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-border{
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
